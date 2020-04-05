@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Proselito/video-maker/issues"
   },
-  "homepage": "https://github.com/Proselito/video-maker#readme"
+  "homepage": "https://github.com/Proselito/video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
