@@ -1,0 +1,23 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "\"Projeto open source para fazer videos automatizados\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proselito/video-maker.git"
+  },
+  "keywords": [
+    "\"robô",
+    "videos\""
+  ],
+  "author": "\"comunitário\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Proselito/video-maker/issues"
+  },
+  "homepage": "https://github.com/Proselito/video-maker#readme"
+}
